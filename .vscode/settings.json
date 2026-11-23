@@ -1,0 +1,22 @@
+{
+    "editor.fontFamily": "'JetBrains Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.fontWeight": "400",
+
+    "files.exclude": {
+        "**/.build": true,
+        "**/*.class": true
+    },
+    "search.exclude": {
+        "**/.build": true
+    },
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": false,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "off",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
